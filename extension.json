@@ -1,6 +1,6 @@
 {
-  "extensions": ["cogs.timer", "cogs.stopwatch", "cogs.animals", "cogs.picture",
+  "extensions": ["cogs.timer", "cogs.stopwatch", "cogs.animals",
     "cogs.wiki", "cogs.qr", "cogs.covid", "cogs.pdf", "cogs.greet", "cogs.radi",
-    "cogs.voice", "cogs.math", "cogs.quiz", "cogs.communication", "cogs.music", "cogs.twitter",
-    "cogs.meidai" ]
+    "cogs.voice", "cogs.math", "cogs.quiz", "cogs.communication", "cogs.music",
+    "cogs.meidai", "cogs.privateroom" ]
 }
